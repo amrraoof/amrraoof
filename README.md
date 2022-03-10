@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrraoof
 - 👀 I’m interested in AI and clouding computer
-- 🌱 I’m currently learning how to be a good AI engineer
+- 🌱 I’m currently learning how to be aproffesional AI and clouding computer engineer
 - 📫 How to reach me ...
 contact me at: amrm19188@gmail.com
 <!---
