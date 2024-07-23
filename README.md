@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrraoof
-- 👀 I’m interested in AI, data sciencs and cloud computing
-- 🌱 I’m currently learning how to be a professional AI and cloud computer engineer
+- 👀 I’m interested in AI, data Science and Data Analysis
+- 🌱 I’m currently learning how to be a professional data scientist
 - 📫 How to reach me ...
 contact me at: amrraoof1999@gmail.com
 <!---
